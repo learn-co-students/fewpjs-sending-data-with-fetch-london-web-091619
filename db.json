@@ -1,5 +1,6 @@
 {
-  "dogs": [{
+  "dogs": [
+    {
       "dogName": "Luca",
       "dogBreed": "German Shepherd",
       "id": 1
@@ -8,9 +9,22 @@
       "dogName": "Lola",
       "dogBreed": "Giant Schnauzer",
       "id": 2
+    },
+    {
+      "dogName": "BOOOOOOOO",
+      "dogBreed": "OSDAOFOASDOFASd",
+      "submit": "Submit",
+      "id": 3
+    },
+    {
+      "dogName": "asdfasdfa",
+      "dogBreed": "fasdfasdfa",
+      "submit": "Submit",
+      "id": 4
     }
   ],
-  "cats": [{
+  "cats": [
+    {
       "catName": "Stanley",
       "catBreed": "Tabby",
       "id": 1
@@ -21,10 +35,43 @@
       "id": 2
     }
   ],
-  "users": [],
-  "robots": [{
-    "robotName": "C8-09S100K",
-    "robotType": "Human Assistant",
-    "id": 9000
-  }]
+  "users": [
+    {
+      "dogName": "asdfasdf",
+      "dogBreed": "asdfasdfasdf",
+      "submit": "Submit",
+      "id": 1
+    },
+    {
+      "dogName": "asdfasdf",
+      "dogBreed": "asdfasdfasdf",
+      "submit": "Submit",
+      "id": 2
+    },
+    {
+      "dogName": "asdfasdf",
+      "dogBreed": "asdfasdfasdf",
+      "submit": "Submit",
+      "id": 3
+    },
+    {
+      "dogName": "asdfasdf",
+      "dogBreed": "asdfasdfasdf",
+      "submit": "Submit",
+      "id": 4
+    },
+    {
+      "dogName": "asdfasdf",
+      "dogBreed": "asdfasdfasdf",
+      "submit": "Submit",
+      "id": 5
+    }
+  ],
+  "robots": [
+    {
+      "robotName": "C8-09S100K",
+      "robotType": "Human Assistant",
+      "id": 9000
+    }
+  ]
 }
